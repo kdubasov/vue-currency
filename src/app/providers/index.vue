@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import Navbar from "../../widgets/navbar/index.vue"
+import Navbar from '../../widgets/navbar/index.vue';
 </script>
 
 <template>
@@ -8,7 +8,4 @@ import Navbar from "../../widgets/navbar/index.vue"
 </template>
 
 <style scoped>
-.title {
-  color: red;
-}
 </style>

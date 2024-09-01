@@ -1,9 +1,9 @@
 <script setup lang="ts">
+import Converter from '../../widgets/converter/index.vue';
 </script>
 
 <template>
-  <h1>convert</h1>
+  <Converter />
 </template>
 
-<style scoped>
-</style>
+<style scoped></style>

@@ -1,10 +1,9 @@
 <script setup lang="ts">
-import CurrencyList from '../../widgets/currency-list/index.vue'
+import CurrencyList from '../../widgets/currency-list/index.vue';
 </script>
 
 <template>
   <CurrencyList />
 </template>
 
-<style scoped>
-</style>
+<style scoped></style>
